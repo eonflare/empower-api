@@ -1,0 +1,9 @@
+---
+development:
+  adapter: mysql2
+  host: localhost
+  database: empower_development
+  username: empower
+  password: empower
+  encoding: utf8
+  pool: 10
